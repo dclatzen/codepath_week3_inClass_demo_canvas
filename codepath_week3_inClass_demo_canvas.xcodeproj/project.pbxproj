@@ -14,6 +14,7 @@
 		449C23A91DC2E9F6008D3638 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 449C23A71DC2E9F6008D3638 /* LaunchScreen.storyboard */; };
 		449C23B41DC2E9F6008D3638 /* codepath_week3_inClass_demo_canvasTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 449C23B31DC2E9F6008D3638 /* codepath_week3_inClass_demo_canvasTests.swift */; };
 		449C23BF1DC2E9F6008D3638 /* codepath_week3_inClass_demo_canvasUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 449C23BE1DC2E9F6008D3638 /* codepath_week3_inClass_demo_canvasUITests.swift */; };
+		449C23CD1DC2EB48008D3638 /* CanvasViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 449C23CC1DC2EB48008D3638 /* CanvasViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		449C23BA1DC2E9F6008D3638 /* codepath_week3_inClass_demo_canvasUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = codepath_week3_inClass_demo_canvasUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		449C23BE1DC2E9F6008D3638 /* codepath_week3_inClass_demo_canvasUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = codepath_week3_inClass_demo_canvasUITests.swift; sourceTree = "<group>"; };
 		449C23C01DC2E9F7008D3638 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		449C23CC1DC2EB48008D3638 /* CanvasViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CanvasViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				449C239E1DC2E9F6008D3638 /* AppDelegate.swift */,
 				449C23A01DC2E9F6008D3638 /* ViewController.swift */,
 				449C23A21DC2E9F6008D3638 /* Main.storyboard */,
+				449C23CC1DC2EB48008D3638 /* CanvasViewController.swift */,
 				449C23A51DC2E9F6008D3638 /* Assets.xcassets */,
 				449C23A71DC2E9F6008D3638 /* LaunchScreen.storyboard */,
 				449C23AA1DC2E9F6008D3638 /* Info.plist */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				449C23A11DC2E9F6008D3638 /* ViewController.swift in Sources */,
+				449C23CD1DC2EB48008D3638 /* CanvasViewController.swift in Sources */,
 				449C239F1DC2E9F6008D3638 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
